@@ -1,4 +1,4 @@
-Zoom Link: [] 
+Zoom Link: [https://drive.google.com/file/d/1hGaIKM8TDoDidXsX4KqTzqaH6CltCY67/view?usp=sharing] 
 Presentation Slides: [https://docs.google.com/presentation/d/1x0qngDqAxFkC_vjsugPrjvWkDs4elPZY/edit?usp=sharing&ouid=105455222428437131815&rtpof=true&sd=true]
 
 ### [JSL11] Agile Board - Kanban Task Management App
